@@ -1,12 +1,12 @@
 <?php
 
-namespace BeyondCode\ErdGenerator\Tests;
+namespace Anil\ErdGenerator\Tests;
 
-use BeyondCode\ErdGenerator\ModelFinder;
-use BeyondCode\ErdGenerator\Tests\Models\Avatar;
-use BeyondCode\ErdGenerator\Tests\Models\Comment;
-use BeyondCode\ErdGenerator\Tests\Models\Post;
-use BeyondCode\ErdGenerator\Tests\Models\User;
+use Anil\ErdGenerator\ModelFinder;
+use Anil\ErdGenerator\Tests\Models\Avatar;
+use Anil\ErdGenerator\Tests\Models\Comment;
+use Anil\ErdGenerator\Tests\Models\Post;
+use Anil\ErdGenerator\Tests\Models\User;
 
 class FindModelsFromConfigTest extends TestCase
 {

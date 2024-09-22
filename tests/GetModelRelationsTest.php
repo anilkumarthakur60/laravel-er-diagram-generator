@@ -1,13 +1,13 @@
 <?php
 
-namespace BeyondCode\ErdGenerator\Tests;
+namespace Anil\ErdGenerator\Tests;
 
-use BeyondCode\ErdGenerator\ModelRelation;
-use BeyondCode\ErdGenerator\RelationFinder;
-use BeyondCode\ErdGenerator\Tests\Models\Avatar;
-use BeyondCode\ErdGenerator\Tests\Models\Comment;
-use BeyondCode\ErdGenerator\Tests\Models\Post;
-use BeyondCode\ErdGenerator\Tests\Models\User;
+use Anil\ErdGenerator\ModelRelation;
+use Anil\ErdGenerator\RelationFinder;
+use Anil\ErdGenerator\Tests\Models\Avatar;
+use Anil\ErdGenerator\Tests\Models\Comment;
+use Anil\ErdGenerator\Tests\Models\Post;
+use Anil\ErdGenerator\Tests\Models\User;
 use Illuminate\Support\Arr;
 
 

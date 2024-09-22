@@ -1,8 +1,8 @@
 <?php
 
-namespace BeyondCode\ErdGenerator\Tests;
+namespace Anil\ErdGenerator\Tests;
 
-use BeyondCode\ErdGenerator\Model;
+use Anil\ErdGenerator\Model;
 
 class ModelTest extends TestCase
 {

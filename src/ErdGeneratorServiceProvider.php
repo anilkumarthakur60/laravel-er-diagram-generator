@@ -1,6 +1,6 @@
 <?php
 
-namespace BeyondCode\ErdGenerator;
+namespace Anil\ErdGenerator;
 
 use Illuminate\Support\ServiceProvider;
 

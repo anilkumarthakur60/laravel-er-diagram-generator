@@ -1,6 +1,6 @@
 <?php
 
-namespace BeyondCode\ErdGenerator\Tests;
+namespace Anil\ErdGenerator\Tests;
 
 use Spatie\Snapshots\MatchesSnapshots;
 use Illuminate\Support\Facades\Artisan;

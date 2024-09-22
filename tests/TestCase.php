@@ -1,9 +1,9 @@
 <?php
 
-namespace BeyondCode\ErdGenerator\Tests;
+namespace Anil\ErdGenerator\Tests;
 
 use Illuminate\Database\Schema\Blueprint;
-use BeyondCode\ErdGenerator\ErdGeneratorServiceProvider;
+use Anil\ErdGenerator\ErdGeneratorServiceProvider;
 
 abstract class TestCase extends \Orchestra\Testbench\TestCase
 {

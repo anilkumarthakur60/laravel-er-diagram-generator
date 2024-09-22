@@ -1,9 +1,9 @@
 <?php
 
-namespace BeyondCode\ErdGenerator\Tests\Models;
+namespace Anil\ErdGenerator\Tests\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use BeyondCode\ErdGenerator\Tests\Traits\HasComments;
+use Anil\ErdGenerator\Tests\Traits\HasComments;
 
 class Post extends Model
 {

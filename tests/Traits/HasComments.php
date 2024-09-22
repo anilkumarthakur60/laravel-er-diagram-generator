@@ -1,8 +1,8 @@
 <?php
 
-namespace BeyondCode\ErdGenerator\Tests\Traits;
+namespace Anil\ErdGenerator\Tests\Traits;
 
-use BeyondCode\ErdGenerator\Tests\Models\Comment;
+use Anil\ErdGenerator\Tests\Models\Comment;
 
 trait HasComments
 {
